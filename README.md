@@ -1,2 +1,1 @@
 # KVINT-V1.0
-# KVINT-V1.0
